@@ -1,0 +1,2 @@
+Resolución del ejercicio N°1 de la unidad 3 de programación 2.
+El código implementa y prueba una clase en Java para gestionar una cuenta bancaria, permitiendo almacenar de forma segura los datos del titular, número de cuenta y saldo, realizar depósitos y extracciones con validaciones de montos, y consultar la información general mediante operaciones válidas e inválidas ejecutadas desde la consola.
